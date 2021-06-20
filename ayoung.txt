@@ -1,1 +1,4 @@
 안녕 나는 김아영이다.
+
+- git hub에서 merge 하기.
+pull requests -> create pull request -> merge pull request
